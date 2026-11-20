@@ -1,0 +1,8 @@
+{
+  "appId": "com.ebdtour.admin",
+  "appName": "E BD ADMIN",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
