@@ -1,0 +1,13 @@
+{
+  "name": "ebd-tour-admin",
+  "version": "1.0.0",
+  "description": "E BD TOUR Admin Panel",
+  "scripts": {
+    "build": "echo 'Static Admin HTML ready'"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
